@@ -1,28 +1,13 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Project 1
+## Microservices on .Net platforms
 
 Build Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Grpc, Ocelot API Gateway, MongoDB, Redis, PostgreSQL, SqlServer, Dapper, Entity Framework Core, CQRS and Clean Architecture.
 
-# Project 2
+## Microservices with .NET and AWS
 Event-Driven Microservices with .NET and AWS, Lambda, API Gateway, Kafka, RabbitMQ, etc.
 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## ShareMarket EOD Analytics using Python
 
 ```js
 // Javascript code with syntax highlighting.
