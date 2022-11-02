@@ -12,5 +12,6 @@ Event-Driven Microservices with .NET and AWS, Lambda, API Gateway, Kafka, Rabbit
 
 ## ShareMarket EOD Analytics using Python
 ShareMarket analysis from the daily feeds from NSE website. It provides statistical analystics and provide recommendations for stock picking based on momentum trading
-
+### My portfolio Returns as of sep2022
+<center><img src="assets/img/Returns.jpeg"/></center>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vam-cloud/FlaskStockAnalytics)
